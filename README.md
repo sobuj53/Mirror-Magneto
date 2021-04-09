@@ -162,6 +162,7 @@ python3 generate_drive_token.py
 	- Authorize with Auth Code,
 	- And Get your `token.pickle` file!
 	- Easy :)
+	- Upload to root of bot directory
 
 ## Using service accounts for uploading to avoid user rate limit
 For Service Account to work, you must set **USE_SERVICE_ACCOUNTS**="True" in config file or in environment variables.
